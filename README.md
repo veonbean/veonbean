@@ -1,5 +1,4 @@
 ### Hi there 👋
-#### This is veonbean's personal introduction.
 
 - 🌱 I’m currently learning vue and nodejs
 - 🤔 I’m looking for help with the new feature of vue3 and koajs
