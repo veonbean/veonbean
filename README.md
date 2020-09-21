@@ -1,4 +1,9 @@
 ### Hi there 👋
+#### This is veonbean's personal introduction.
+
+- 🌱 I’m currently learning vue and nodejs
+- 🤔 I’m looking for help with the new feature of vue3 and koajs
+- 📫 How to reach me: veonbean@163.com
 
 <!--
 **veonbean/veonbean** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
