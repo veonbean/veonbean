@@ -5,10 +5,10 @@
 - 📫 How to reach me: veonbean@163.com
 
 
-[![Anurag's github stats](github-readme-stats-git-master.veonbean.vercel.app/api?username=veonbean&count_private=true&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's github stats](https://github-readme-stats-git-master.veonbean.vercel.app/api?username=veonbean&count_private=true&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
 
 
-[![Top Langs](github-readme-stats-git-master.veonbean.vercel.app/api/top-langs/?username=veonbean)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats-git-master.veonbean.vercel.app/api/top-langs/?username=veonbean)](https://github.com/anuraghazra/github-readme-stats)
 <!--
 **veonbean/veonbean** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
